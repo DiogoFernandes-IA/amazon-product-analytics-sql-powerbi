@@ -1,0 +1,12 @@
+// Criar cada medida separadamente no Power BI.
+Total de Produtos = DISTINCTCOUNT('vw_Amazon_Analise'[ProdutoID])
+
+Preço Médio (INR) = AVERAGE('vw_Amazon_Analise'[PrecoComDesconto])
+
+Desconto Médio = DIVIDE(AVERAGE('vw_Amazon_Analise'[DescontoPercentual]), 100)
+
+Nota Média = AVERAGE('vw_Amazon_Analise'[Nota])
+
+// Formatos: inteiro com milhar; decimal 2 casas com milhar;
+// percentual 1 casa; decimal 2 casas, respectivamente.
+// Se a configuração regional exigir, substituir separador de argumentos por ;.
