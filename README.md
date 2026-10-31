@@ -10,6 +10,12 @@ Projeto de análise de dados desenvolvido com **SQL Server e Power BI**, abrange
 - [Visualizar o relatório em PDF](./Amazon_Analise_Produtos.pdf)
 - [Baixar o arquivo Power BI — PBIX](./Amazon_Analise_Produtos.pbix)
 
+## Análise complementar no Kaggle
+
+O notebook apresenta a preparação dos dados em Python, as validações de qualidade e a reprodução dos indicadores do dashboard.
+
+[Acessar o notebook no Kaggle](https://www.kaggle.com/code/diogosoaresfernandes/amazon-product-analysis-prices-discounts-ratin)
+
 ## 1. Objetivo do projeto
 
 Organizar uma base pública de produtos da Amazon para analisar:
