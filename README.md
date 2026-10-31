@@ -5,6 +5,10 @@ Projeto de análise de dados desenvolvido com **SQL Server e Power BI**, abrange
 **Autor:** Diogo Soares Fernandes
 <img width="1711" height="1800" alt="dashboard" src="https://github.com/user-attachments/assets/aca5f070-76c9-4c62-84d2-88ea4ec9b270" />
 
+## Arquivos do dashboard
+
+- [Visualizar o relatório em PDF](./Amazon_Analise_Produtos.pdf)
+- [Baixar o arquivo Power BI — PBIX](./Amazon_Analise_Produtos.pbix)
 
 ## 1. Objetivo do projeto
 
